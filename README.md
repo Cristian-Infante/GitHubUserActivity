@@ -2,10 +2,6 @@
 
 This project is a command-line application written in C# that allows users to retrieve and display the recent activity of any GitHub user. The application uses the GitHub API to fetch recent events, such as commits, repository creations, and other types of activities.
 
-## Project Structure
-
-The application follows SOLID and GRASP design principles to ensure modular, maintainable, and easily extensible code. Below is an overview of the main components of the project:
-
 ### Main Files and Folders
 
 - **`Program.cs`**: Contains the entry point of the application. It is responsible for setting up dependency injection, handling user input, and coordinating the interaction between the various services.
