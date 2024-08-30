@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "asHoPLjo7DIUujgEiibFpCu7t2UuueMruRfrIFeqRZ0saGNC1i0vXZ4Us/Vj/cDZzQ09ya7S/OgiCso6Ol/Y+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\C#\\GitHubUserActivity\\GitHubUserActivity\\GitHubUserActivity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.7.24405.7\\microsoft.extensions.dependencyinjection.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.7.24405.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.7.24405.7.nupkg.sha512"
+  ],
+  "logs": []
+}
